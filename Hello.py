@@ -1,2 +1,2 @@
 Alejandra Figueroa
-Hello World
+print('Hello World')
